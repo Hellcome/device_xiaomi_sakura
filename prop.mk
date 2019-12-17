@@ -18,3 +18,6 @@ dalvik.vm.heapsize=512m \
 dalvik.vm.heaptargetutilization=0.75 \
 dalvik.vm.heapminfree=4m \
 dalvik.vm.heapmaxfree=8m
+
+# Havoc
+ro.havoc.maintainer=Tushar Mahajan(mahajant99)
